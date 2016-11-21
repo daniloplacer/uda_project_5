@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_6c7ee7171cda1c2c1bc8bf1537681861778c8698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_f17976b561e86782aaf63b037165013d2cec8cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_ee60dc2b9fc9152d4523996b5c12035a6dabb829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_b681658f07bae9a79f22e16e7627f56f0578a260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_84c1a4dde2bb1843e0fece60bc59771372b7d02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_3c87b771e79ebe6f531f2f7835dc87be2f051931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_2da251df863c574ee233ef99a4cecb9f25e25abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_702f8e06473372bd34d235a64542128459a2bf87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_5a2c86dbd8a0bd79c448837df06cfaea0c63caa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_0efd8ffaf1e56cefa15233855588f38d99f03b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_506686074758b5071b89f77b55fd8285588d500c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_c5e57bf8ce6de60f594912b207695fae21948b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniloplacer/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/daniloplacer/version-control/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_9041a2a8b758136a6cd903028569927d94f55da2.jar" />
+    </item>
+
+</items>

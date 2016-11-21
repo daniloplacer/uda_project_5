@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+
+    <string name="placeholder_article_title">Climbing Mt Everest</string>
+    <string name="placeholder_article_subtitle">June 2016 - Danilo Placer</string>
+    <string name="placeholder_article_body">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque convallis
+        lacus sit amet aliquam. Curabitur interdum blandit lobortis.
+        Aliquam hendrerit sem nisl, vitae dictum nisl maximus a.
+        Nulla commodo viverra dui, vel facilisis velit convallis ut. Nullam non massa mollis,
+        eleifend turpis et, porttitor metus. Phasellus varius risus non bibendum pulvinar.
+        Nullam at mauris ligula. In hac habitasse platea dictumst.
+        Duis sed congue nunc, eget commodo leo. Integer id elit magna.
+        Aenean vitae enim vel nunc lacinia tristique. Nunc consequat, orci et ullamcorper commodo,
+        elit metus cursus nunc, tincidunt tincidunt tortor sapien eget libero.
+    </string>
+
+
+</resources>
